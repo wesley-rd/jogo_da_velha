@@ -1,0 +1,44 @@
+#placar{
+	margin: auto;
+	margin-top:30px;
+	width:252px;
+	height:80px;
+
+}
+.espaco{
+	width:80px;
+	height:80px;
+	border:2px solid #000;
+	float: left;
+	text-align: center;
+	padding-top: 0px;
+
+}
+.casas{
+	margin: auto;
+	width: 252px;
+	margin-top: 20px;
+}	
+p {
+	float: left;
+	margin-right: 10px;
+}
+.xjpg{
+	background-image: url(img/x.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height:50px;
+	
+}
+.circulopng{
+	background-image: url(img/circulo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height:50px;
+}
+button{
+	margin-top: 10px;
+	border-radius: 5px;
+	height: 30px;
+	background-color:#DCDCDC;
+}
